@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.4.0">
 <title data-rh="true">Timestamp Definitions | Liz Argall</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://lizargall.github.io/img/liz_social_card.jpg"><meta data-rh="true" name="twitter:image" content="https://lizargall.github.io/img/liz_social_card.jpg"><meta data-rh="true" property="og:url" content="https://lizargall.github.io/docs/aria_docs/timestamps_in_aria_vrs"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Timestamp Definitions | Liz Argall"><meta data-rh="true" name="description" content="How Project Aria timestamp data is formatted in VRS."><meta data-rh="true" property="og:description" content="How Project Aria timestamp data is formatted in VRS."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://lizargall.github.io/docs/aria_docs/timestamps_in_aria_vrs"><link data-rh="true" rel="alternate" href="https://lizargall.github.io/docs/aria_docs/timestamps_in_aria_vrs" hreflang="en"><link data-rh="true" rel="alternate" href="https://lizargall.github.io/docs/aria_docs/timestamps_in_aria_vrs" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="Liz Argall RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Liz Argall Atom Feed"><link rel="stylesheet" href="/assets/css/styles.3ecb062d.css">
-<script src="/assets/js/runtime~main.dd4a2f4b.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.8b5314fc.js" defer="defer"></script>
 <script src="/assets/js/main.ccc6e2fa.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -15,15 +15,15 @@
 <p>The sensors in Project Aria glasses are temporally aligned to a shared, device-time domain. Multiple devices (either multiple Aria glasses or Aria glasses plus other devices) can also be temporally aligned using a shared clock.</p>
 <p>Open datasets that contain temporally aligned data from multiple devices that use TimeDomain.TIME_CODE​ are:</p>
 <ul>
-<li><a href="/open_datasets/aria_everyday_activities_dataset/aria_everyday_activities_dataset.mdx">Aria Everyday Activities (AEA)</a> - recordings with 1-2 Aria glasses in a shared location</li>
-<li><a href="/open_datasets/aria_digital_twin_dataset/aria_digital_twin_dataset.mdx">Aria Digital Twin (ADT)</a> - recordings with 1-2 Aria glasses in a shared location</li>
+<li><a href="https://facebookresearch.github.io/projectaria_tools/docs/open_datasets/aria_everyday_activities_dataset/aria_everyday_activities_dataset" target="_blank" rel="noopener noreferrer">Aria Everyday Activities (AEA)</a> - recordings with 1-2 Aria glasses in a shared location</li>
+<li><a href="https://facebookresearch.github.io/projectaria_tools/docs/open_datasets/aria_digital_twin_dataset/aria_digital_twin_dataset" target="_blank" rel="noopener noreferrer">Aria Digital Twin (ADT)</a> - recordings with 1-2 Aria glasses in a shared location</li>
 </ul>
-<p>Aria research partners can use TICSync to make <a href="/ARK/sdk/ticsync.mdx">time synchronized recordings between multiple devices</a>.</p>
+<p>Aria research partners can use TICSync to make <a href="https://facebookresearch.github.io/projectaria_tools/docs/ARK/sdk/ticsync" target="_blank" rel="noopener noreferrer">time synchronized recordings between multiple devices</a>.</p>
 <p><strong>Further resources:</strong></p>
 <ul>
-<li><a href="/tech_insights/device_timestamping.mdx">Project Aria Device Timestamping</a> - how the hardware is configured</li>
-<li><a href="/tech_insights/temporal_alignment_of_sensor_data.mdx">Temporal Alignment of Aria Sensor Data</a> - how the data is temporally aligned and how to finely align IMU, barometer and magnetometer data</li>
-<li><a href="/ARK/sdk/concepts/about_ticsync.mdx">About TICSync</a> - how TICSync protocols work</li>
+<li><a href="https://facebookresearch.github.io/projectaria_tools/docs/tech_insights/device_timestamping" target="_blank" rel="noopener noreferrer">Project Aria Device Timestamping</a> - how the hardware is configured</li>
+<li><a href="https://facebookresearch.github.io/projectaria_tools/docs/tech_insights/temporal_alignment_of_sensor_data" target="_blank" rel="noopener noreferrer">Temporal Alignment of Aria Sensor Data</a> - how the data is temporally aligned and how to finely align IMU, barometer and magnetometer data</li>
+<li><a href="https://facebookresearch.github.io/projectaria_tools/docs/ARK/sdk/concepts/about_ticsync" target="_blank" rel="noopener noreferrer">About TICSync</a> - how TICSync protocols work</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrs-timestamps-single-device">VRS Timestamps (Single Device)<a class="hash-link" aria-label="Direct link to VRS Timestamps (Single Device)" title="Direct link to VRS Timestamps (Single Device)" href="/docs/aria_docs/timestamps_in_aria_vrs#vrs-timestamps-single-device">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="device-timestamps">Device timestamps<a class="hash-link" aria-label="Direct link to Device timestamps" title="Direct link to Device timestamps" href="/docs/aria_docs/timestamps_in_aria_vrs#device-timestamps">​</a></h3>
@@ -67,7 +67,7 @@
 the record timestamp is the first timestamp in the record and the device timestamp is the last timestamp in the record.
 Therefore, device timestamp - record timestamp for the same record is 42ms for 2048 samples (and 84ms for 4096 samples).</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrs-timestamps-multiple-devices">VRS Timestamps (Multiple Devices)<a class="hash-link" aria-label="Direct link to VRS Timestamps (Multiple Devices)" title="Direct link to VRS Timestamps (Multiple Devices)" href="/docs/aria_docs/timestamps_in_aria_vrs#vrs-timestamps-multiple-devices">​</a></h2>
-<p>Accurate time synchronization is essential when co-ordinating data collection or analyzing data between multiple devices (real world or synthetic). Without synchronization, any device’s built-in recording of time will naturally drift and go out of sync (like how your microwave slowly loses time over a year).</p>
+<p>Accurate time synchronization is essential when coordinating data collection or analyzing data between multiple devices (real world or synthetic). Without synchronization, any device’s built-in recording of time will naturally drift and go out of sync (like how your microwave slowly loses time over a year).</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="timedomaintime_code">TimeDomain.TIME_CODE<a class="hash-link" aria-label="Direct link to TimeDomain.TIME_CODE" title="Direct link to TimeDomain.TIME_CODE" href="/docs/aria_docs/timestamps_in_aria_vrs#timedomaintime_code">​</a></h3>
 <p>Multiple devices (either multiple Aria glasses or Aria glasses plus other devices) that are temporally aligned using an external shared clock will include the TimeDomain.TIME_CODE datastream in the VRS file.</p>
 <p>We use time sync servers to record pairs of timestamps between the server’s local timestamp and the Aria glasses’ device timestamp. This generates a mapping between the Aria’s device time and the server’s local time. The server’s local time serves as a unified time domain shared by the multiple devices.</p>
