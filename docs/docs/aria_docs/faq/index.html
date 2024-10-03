@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.4.0">
 <title data-rh="true">Project Aria FAQ | Liz Argall</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://lizargall.github.io/img/liz_social_card.jpg"><meta data-rh="true" name="twitter:image" content="https://lizargall.github.io/img/liz_social_card.jpg"><meta data-rh="true" property="og:url" content="https://lizargall.github.io/docs/aria_docs/faq"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Project Aria FAQ | Liz Argall"><meta data-rh="true" name="description" content="Project Aria is a research program, with supporting spatial AI machine perception technologies and open science initiatives, created to serve as foundational building blocks for higher-level contextualized AI and the novel compute and interaction paradigms needed in order to make AR successful."><meta data-rh="true" property="og:description" content="Project Aria is a research program, with supporting spatial AI machine perception technologies and open science initiatives, created to serve as foundational building blocks for higher-level contextualized AI and the novel compute and interaction paradigms needed in order to make AR successful."><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://lizargall.github.io/docs/aria_docs/faq"><link data-rh="true" rel="alternate" href="https://lizargall.github.io/docs/aria_docs/faq" hreflang="en"><link data-rh="true" rel="alternate" href="https://lizargall.github.io/docs/aria_docs/faq" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="Liz Argall RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Liz Argall Atom Feed"><link rel="stylesheet" href="/assets/css/styles.3ecb062d.css">
-<script src="/assets/js/runtime~main.6a102495.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.9112c942.js" defer="defer"></script>
 <script src="/assets/js/main.bedc3a30.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -149,7 +149,7 @@
 <ul>
 <li>Android OS version 10 or above installed</li>
 <li>ARM64 processor preferred</li>
-<li>(Optional) ARCore Depth API (<a href="https://developers.google.com/ar/devices" target="_blank" rel="noopener noreferrer">https://developers.google.com/ar/devices</a>) support needed for <a href="/ARK/mps/eye_gaze_calibration.mdx">eye-tracking calibration</a></li>
+<li>(Optional) ARCore Depth API (<a href="https://developers.google.com/ar/devices" target="_blank" rel="noopener noreferrer">https://developers.google.com/ar/devices</a>) support needed for <a href="https://facebookresearch.github.io/projectaria_tools/docs/ARK/mps/eye_gaze_calibration" target="_blank" rel="noopener noreferrer">eye-tracking calibration</a></li>
 <li>64-bit is preferred, although 32-bit is supported</li>
 </ul>
 <p>If you&#x27;re using iOS:</p>
@@ -172,7 +172,7 @@
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="mps-cli">MPS CLI<a class="hash-link" aria-label="Direct link to MPS CLI" title="Direct link to MPS CLI" href="/docs/aria_docs/faq#mps-cli">​</a></h4>
 <p>Accessed via the PyPI installation of Project Aria Tools, the <a href="https://facebookresearch.github.io/projectaria_tools/docs/ARK/mps/request_mps/mps_cli" target="_blank" rel="noopener noreferrer">Project Aria MPS Command Line Interface (MPS CLI)</a> provides a streamlined way to request <a href="https://facebookresearch.github.io/projectaria_tools/docs/ARK/mps" target="_blank" rel="noopener noreferrer">Machine Perception Services (MPS)</a>:</p>
 <ul>
-<li>Request <a href="/https://facebookresearch.github.io/projectaria_tools/docsdata_formats/mps/slam">SLAM</a>, <a href="https://facebookresearch.github.io/projectaria_tools/docs/data_formats/mps/mps_eye_gaze" target="_blank" rel="noopener noreferrer">Eye Gaze</a> and <a href="https://facebookresearch.github.io/projectaria_tools/docs/data_formats/mps/hand_tracking" target="_blank" rel="noopener noreferrer">Hand Tracking</a> data</li>
+<li>Request <a href="https://facebookresearch.github.io/projectaria_tools/docs/data_formats/mps/slam" target="_blank" rel="noopener noreferrer">SLAM</a>, <a href="https://facebookresearch.github.io/projectaria_tools/docs/data_formats/mps/mps_eye_gaze" target="_blank" rel="noopener noreferrer">Eye Gaze</a> and <a href="https://facebookresearch.github.io/projectaria_tools/docs/data_formats/mps/hand_tracking" target="_blank" rel="noopener noreferrer">Hand Tracking</a> data</li>
 <li>Request <a href="https://facebookresearch.github.io/projectaria_tools/docs/data_formats/mps/slam/mps_multi_slam" target="_blank" rel="noopener noreferrer">Multi-Sequence SLAM data</a></li>
 </ul>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="aria-studio">Aria Studio<a class="hash-link" aria-label="Direct link to Aria Studio" title="Direct link to Aria Studio" href="/docs/aria_docs/faq#aria-studio">​</a></h4>
@@ -204,7 +204,7 @@
 <li>Windows 11 may work, but is not actively supported at this time</li>
 <li>Linux, debian package for Ubuntu, 22.04 LTS version. The app was only tested for that specific version under Gnome 42.5 and X11 (X Server) as well as Wayland. Any other debian distribution (Ubuntu 22.04 fork such as Kubuntu, Mint etc.) or environment may or may not work.<!-- -->
 <ul>
-<li>V36 only, please use the <a href="/ARK/mps/request_mps/mps_cli.mdx">MPS CLI</a> or <a href="/docs/aria_docs/ARK/aria_studio.mdx">Aria Studio</a> to request Hand Tracking MPS</li>
+<li>V36 only, please use the <a href="https://facebookresearch.github.io/projectaria_tools/docs/ARK/mps/request_mps/mps_cli" target="_blank" rel="noopener noreferrer">MPS CLI</a> or <a href="https://facebookresearch.github.io/projectaria_tools/docs/ARK/aria_studio" target="_blank" rel="noopener noreferrer">Aria Studio</a> to request Hand Tracking MPS</li>
 </ul>
 </li>
 </ul>
