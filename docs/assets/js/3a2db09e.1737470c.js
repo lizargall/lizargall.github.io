@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"Friends","permalink":"/blog/tags/friends","description":"Friendship is magic. Shout outs to people who are sharing their thoughts about technical writing or putting good stuff into the world.","count":1}]}')}}]);
