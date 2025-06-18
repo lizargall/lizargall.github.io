@@ -4,10 +4,135 @@
         <title>Liz Argall Blog</title>
         <link>https://lizargall.github.io/blog</link>
         <description>Liz Argall Blog</description>
-        <lastBuildDate>Thu, 05 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Attend to the work]]></title>
+            <link>https://lizargall.github.io/blog/process</link>
+            <guid>https://lizargall.github.io/blog/process</guid>
+            <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[This essay started as a love letter to mindfully turning up. I wanted to write about the power that comes from turning up a little bit at a time consistently. As I attended to the work of blogging regularly it evolved to be a love letter to processes, structures, systems and their interconnections. This essay gives you a tour of philosophies and metaphors that may feel disconnected at first, but all feed into creating meaningful, effective work while avoiding burnout.]]></description>
+            <content:encoded><![CDATA[<p>This essay started as a love letter to mindfully turning up. I wanted to write about the power that comes from turning up a little bit at a time consistently. As I attended to the work of blogging regularly it evolved to be a love letter to processes, structures, systems and their interconnections. This essay gives you a tour of philosophies and metaphors that may feel disconnected at first, but all feed into creating meaningful, effective work while avoiding burnout.</p>
+<p>Due to the nature of this essay, I've only done minimal edits while typing. This essay is a love letter after all, and it wouldn't do to over work it!</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="lets-begin">Let's begin<a href="https://lizargall.github.io/blog/process#lets-begin" class="hash-link" aria-label="Direct link to Let's begin" title="Direct link to Let's begin">​</a></h3>
+<p>Over the last few blog posts, I've shared some resources for mindfully turning up for your docs and for yourself.</p>
+<p>If you look at these resources you might get a sense of overwhelm. OMG, there's so much to do and I haven't done it all! It's easy for your mind to shut down and decide, if you can't do it all, what's the point?</p>
+<p>All of these resources have evolved over time, through a combination of trial and error, research and reflection. And so it should go with your implementation. All of these structures are there to foster better conversations and give you different ways of focusing your attention through different helpful structures.</p>
+<p>If you glance at the templates briefly, perhaps that sparks an idea or irritates you in an interesting direction. When we mindfully observe and work through patterns, templates and philosophies with a curious mind it can enrich many domains in our lives. I'm a better Aikido practitioner thanks to how deeply I care about technical writing. I am a better technical writer and colleague by thinking about how I can apply Aikido to the workplace.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-joy-of-mindful-practice">The joy of mindful practice<a href="https://lizargall.github.io/blog/process#the-joy-of-mindful-practice" class="hash-link" aria-label="Direct link to The joy of mindful practice" title="Direct link to The joy of mindful practice">​</a></h2>
+<p>In <a href="https://www.matthewsyed.co.uk/book/bounce-the-myth-of-talent-and-the-power-of-practice/" target="_blank" rel="noopener noreferrer"><em>Bounce: the Myth of Talent and the Power of Practice</em></a>, by Matthew Syed, Syed reflects on how so much of what we perceive as talent is practice that we don't see. Sometimes we don't even see our own practice, because it's "just fun" or we don't see how expertise in one domain can contribute to another.</p>
+<p>In Bounce, Syed explores how it's not just any practice that helps you grow. Syed was the number one table tennis player in the UK for many years and was an Olympian twice. When he goes through his own origin story he explores how a series of happy coincidences created an environment where he was able to practice with pleasure from an early age and then have the chance to train with technical rigor at school.</p>
+<p>Doing just any old practice won't make you an expert. If you practice half-heartedly doing something, 10,000 hours won't feel like expertise, it'll feel like a chore and you'll become an expert at drudging through something with diminished attention.</p>
+<p>I'll never forget watching Richard Sherman, a remarkable American football player (if sadly in the news for the wrong reasons these days), warming up before a game. It was the best part of the whole day. While other people were going through the motions doing warmups to get through warmups, he was giving every motion his full attention. Every lunge, every rotation of his body, committed fully to the exercise and not bouncing out of it before completing the full stretch. His focus and ability to use this "simple" task to work with every part of his body is a memory I treasure and carry with me into my practices.</p>
+<p>When Richard Sherman warmed up he aligned his consciousness with his body with his activity, filling it with intention and power. It's not just how much we practice, it's how we practice.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-pleasure-and-purpose-of-organizing-philosophies">The pleasure and purpose of organizing philosophies<a href="https://lizargall.github.io/blog/process#the-pleasure-and-purpose-of-organizing-philosophies" class="hash-link" aria-label="Direct link to The pleasure and purpose of organizing philosophies" title="Direct link to The pleasure and purpose of organizing philosophies">​</a></h2>
+<p><a href="https://sanger.umich.edu/news-1-2-19-ema-aikido/" target="_blank" rel="noopener noreferrer">Aikido</a> has been a love of mine since I was 19 years old, and I've been with present dojo for about a decade. When I bow in, I try to empty my mind, splosh out all the stuff that's been building in my head. I set an intention to be present for what that practice is and to learn deeply, whether we're doing a "basic" technique or an advanced move.</p>
+<p>Emptying my head helps me be present for my fellow Aikidoki as they are, not what I think they are. It helps me listen closely to newer folks, their struggles teach me so much about my craft, as new users and new minds can help me learn about my docs. Emptying my head and staying grounded in my practice helps me listen closely to the folks who have been around longer than me, my subject matter experts (SMEs). Sometimes I might be baffled about how they're trying to teach me something. If I listen closely and remain open to their teaching I can find out if they're actually trying to teach me something else. Sometimes I see how the struggles of old hands are similar to the struggles of newer folks. We can laugh at the commonalities, how we all benefit from returning to the beginning and always working on our foundations.</p>
+<p>Through the constraints and structures of practice, it happens at a certain place at a certain time, our techniques have a shared vocabulary and certain people lead the experience, I have an organizational structure to actively learn in. No matter what we do at practice, I'm doing Aikido with my whole attention and that is satisfying.</p>
+<p>When we mindfully turn up and know we are operating in a helpful structure, we can set aside (or turn down the volume) on a whole range of worries and perfectionisms. The question isn't, "Am I good enough?" The question becomes, "Am I doing Aikido?"</p>
+<p>We can see the value of helpful structures in so many fields and amongst so many people who perform at high levels. We can see these helpful structures in the ways we build communities and interact.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="permaculture-design-principles">Permaculture design principles<a href="https://lizargall.github.io/blog/process#permaculture-design-principles" class="hash-link" aria-label="Direct link to Permaculture design principles" title="Direct link to Permaculture design principles">​</a></h3>
+<p><a href="https://permacultureprinciples.com/" target="_blank" rel="noopener noreferrer">Permaculture</a>, a philosophy and practice for sustainable land management and communities, posits the questions such as:</p>
+<ul>
+<li>Am I listening to the ecosystem?<!-- -->
+<ul>
+<li>Am I trying to force my will and how "things should be" onto documents or architecture without working through what that means for that workplace and userbase?</li>
+</ul>
+</li>
+<li>How can I obtain a yield?<!-- -->
+<ul>
+<li>Am I getting caught up in elaborate structures when I should be focused on smaller user stories?</li>
+</ul>
+</li>
+<li>How do I use edges and the marginal? How am I catching and storing energy? Are we paying attention to the correct level of design?<!-- -->
+<ul>
+<li>Do I need to educate people that messy is ok, especially in forming and storming phases?</li>
+<li>Do people feel safe contributing and that mistakes and imperfection are ok?</li>
+<li>Am I getting bogged down in copy editing perfection when that time would be better served working on the big picture?</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="diataxis-framework">Diataxis framework<a href="https://lizargall.github.io/blog/process#diataxis-framework" class="hash-link" aria-label="Direct link to Diataxis framework" title="Direct link to Diataxis framework">​</a></h3>
+<p>Permaculture can then blend into the <a href="https://diataxis.fr/" target="_blank" rel="noopener noreferrer">Diataxis framework</a>, which isn't about bludgeoning documentation into a specific shape. It's a map that helps you articulate natural rhythms that are pleasing. Diataxis can help create clarity around:</p>
+<ul>
+<li>The purpose of each nugget of information.</li>
+<li>Developing a consistent template for readmes and features.<!-- -->
+<ul>
+<li>I find I apply all of Diataxis on a single page, far more than splitting things out.</li>
+<li>I've found engineers find it easier to align with a template if there is a methodology behind it, it's not just me having ideas.</li>
+</ul>
+</li>
+<li>Trust that messy and incomplete is part of the process.<!-- -->
+<ul>
+<li>Permaculture is a valuable framework, but it's nice to have a call to authority that says, "Things looking bad can be a sign of improvement."</li>
+</ul>
+</li>
+<li>SMEs can find it easier to onboard people and manage the OTT infodump if you tell them their deep understanding has a place.<!-- -->
+<ul>
+<li>I've used Diataxis and the "teaching someone to cook" metaphor to help SMEs understand that there is a time and place for explanation, but first we need to get folks into the kitchen.</li>
+<li>Saying how-to guides are like recipes has helped SMEs understand when a tutorial is required and when it's a how-to. This clear distinction has made it much easier to build trust, as programmers fear being patronizing or being patronized to. Don't worry, I wont tell you to wash your hands when it's a recipe card!</li>
+</ul>
+</li>
+<li>The best fertilizer is the gardener's shadow.<!-- -->
+<ul>
+<li>Ok, that saying is taken from gardening, but at its heart, Diataxis is just a framework for mindfully turning up for your docs and improving a bit here and there.</li>
+<li>It's a continual practice, not an end point.</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-source-principles-and-values">Open source principles and values<a href="https://lizargall.github.io/blog/process#open-source-principles-and-values" class="hash-link" aria-label="Direct link to Open source principles and values" title="Direct link to Open source principles and values">​</a></h3>
+<p>Diataxis can blend nicely into <a href="https://www.redhat.com/en/blog/open-source-culture-9-core-principles-and-values" target="_blank" rel="noopener noreferrer">open source principles</a> such as do-ocracy, collaboration and self-organization (how you turn up for your part of the garden might be really different to mine, but we both want it to thrive and a shared vocabulary helps). Open Source can invite questions such as:</p>
+<ul>
+<li>How are we listening to our communities?</li>
+<li>How do we build environments of collaboration and respect?</li>
+<li>How do we support the do-ers and make sure we're not burning through volunteers?</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="agile-methodologies">Agile methodologies<a href="https://lizargall.github.io/blog/process#agile-methodologies" class="hash-link" aria-label="Direct link to Agile methodologies" title="Direct link to Agile methodologies">​</a></h3>
+<p>Open source blends nicely into <a href="https://www.atlassian.com/agile/manifesto" target="_blank" rel="noopener noreferrer">Agile methodologies</a>, where a few of the questions it asks are:</p>
+<ul>
+<li>How are we creating chunks of work that are purposeful?</li>
+<li>How are we collaborating cross-functionally and with our customers?</li>
+<li>What can we achieve now?</li>
+<li>How are we valuing the energy and time of all the individuals that make up the whole?<!-- -->
+<ul>
+<li>As Permaculture would say, "Use and value renewable resources and services"</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="spreadsheets-and-processes-to-value-your-efforts">Spreadsheets and processes to value your efforts<a href="https://lizargall.github.io/blog/process#spreadsheets-and-processes-to-value-your-efforts" class="hash-link" aria-label="Direct link to Spreadsheets and processes to value your efforts" title="Direct link to Spreadsheets and processes to value your efforts">​</a></h2>
+<p>The spreadsheets I've created should have value if you glance at them. They should have greater value if you use them as a structure.</p>
+<p>In Aikido, I know that if I've turned up on the mat and given my focused attention for an hour, I have done good work.</p>
+<p>If I spend an hour working on a search term analysis, I will have done good work. I may have improved my docs, gained a greater understanding of user experience or experienced great waves of despair as I encounter places my docs fall short. What matters on a fundamental level is that you've practiced within a supportive framework and have turned up.</p>
+<p>If you don't have a structure it can be easy to think, "What have I done? I've done nothing today!" This is especially true if you encounter problems in the docs thanks to your diligence. When you don't have a container to hold and witness your work it can be easy to lose perspective.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-map-is-not-the-territory">The map is not the territory<a href="https://lizargall.github.io/blog/process#the-map-is-not-the-territory" class="hash-link" aria-label="Direct link to The map is not the territory" title="Direct link to The map is not the territory">​</a></h2>
+<p>Various helpful structures can help you see your content in new and novel ways. They can disrupt comfortable modes of seeing and get you closer to the experience of a new user. They are helpful maps, but the map is not the territory.</p>
+<p>Maps can be helpful for pointing out phenomena in our shared physical universe, but they are always incomplete. They have to be, or we'd be drowned in noise. One map might be full of contour lines and show where dry riverbeds sometimes flow. Another map might crisply and cleanly focus on roads and provide the latest prices at gas stations.</p>
+<p>Neither map is wrong, they just have different purposes. Sometimes, the most beautiful thing as you explore the territory is to see what seemingly disparate maps have in common. To attend to the work, to gain experience, to think deeply and see how your maps build into a larger story is satisfying.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="media-im-enjoying">Media I'm enjoying<a href="https://lizargall.github.io/blog/process#media-im-enjoying" class="hash-link" aria-label="Direct link to Media I'm enjoying" title="Direct link to Media I'm enjoying">​</a></h2>
+<ul>
+<li>Tara McMullin<!-- -->
+<ul>
+<li><a href="https://whatworks.fyi/articles/validation-spiral" target="_blank" rel="noopener noreferrer">Breaking The Validation Spiral: A Systems Approach | Essay or Podcast</a></li>
+<li><a href="https://whatworks.fyi/articles/enabling-structures" target="_blank" rel="noopener noreferrer">How to Leverage Enabling Structures to Fulfill Values | Essay or Podcast</a></li>
+</ul>
+</li>
+<li>Python Software Foundation <a href="https://www.youtube.com/watch?v=710uQqIqsWk&amp;t=20s" target="_blank" rel="noopener noreferrer">Python Docs Community Workshop: Introduction to Diataxis | YouTube</a>
+<ul>
+<li>This is a LONG video, but I like how it shows the friendly side to Diataxis that really emphasizes process over destination.</li>
+<li>Tone is so much easier to convey when there are voices and faces!</li>
+</ul>
+</li>
+<li>Huw Richards <a href="https://www.youtube.com/watch?v=YRSn-DZTGa4" target="_blank" rel="noopener noreferrer">PERMACULTURE Explained in 6 Minutes | YouTube</a></li>
+<li>Aikido Journal <a href="https://aikidojournal.com/2019/11/13/aikido-a-message-and-mission-for-our-times/" target="_blank" rel="noopener noreferrer">Aikido: A Message and Mission for Our Time | Article</a></li>
+<li>Write the Docs <a href="https://www.youtube.com/watch?v=MFlGwC7DZqc" target="_blank" rel="noopener noreferrer">Colin Loretz - Open Docs, Open Collaboration: Building Better Documentation with Community PRs | YouTube</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="want-to-read-more-blog-posts">Want to read more blog posts?<a href="https://lizargall.github.io/blog/process#want-to-read-more-blog-posts" class="hash-link" aria-label="Direct link to Want to read more blog posts?" title="Direct link to Want to read more blog posts?">​</a></h3>
+<p><a href="https://mailchi.mp/520551e04a4d/documentarians-rock" target="_blank" rel="noopener noreferrer">Subscribe to my newsletter</a> to be emailed whenever I do an update!</p>]]></content:encoded>
+            <category>Templates and Spreadsheets</category>
+            <category>Friends</category>
+        </item>
         <item>
             <title><![CDATA[Introduction to search term analysis]]></title>
             <link>https://lizargall.github.io/blog/search-term-analysis</link>
