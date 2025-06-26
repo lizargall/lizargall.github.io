@@ -4,10 +4,59 @@
         <title>Liz Argall Blog</title>
         <link>https://lizargall.github.io/blog</link>
         <description>Liz Argall Blog</description>
-        <lastBuildDate>Wed, 18 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Not a boring technical writer!]]></title>
+            <link>https://lizargall.github.io/blog/not-boring</link>
+            <guid>https://lizargall.github.io/blog/not-boring</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[I had a great conversation with Kate Mueller on the Not Boring Technical Writer. The actual interview was a lot longer as we got quite carried away, so kudos to the editors for squeezing it down to size.]]></description>
+            <content:encoded><![CDATA[<p>I had a great conversation with Kate Mueller on the <a href="https://thenotboringtechwriter.com/" target="_blank" rel="noopener noreferrer">Not Boring Technical Writer</a>. The actual interview was a lot longer as we got quite carried away, so kudos to the editors for squeezing it down to size.</p>
+<p><a href="https://thenotboringtechwriter.com/episodes/connecting-permaculture-and-documentation-with-liz-argall" target="_blank" rel="noopener noreferrer">Connecting permaculture and documentation with Liz Argall</a></p>
+<p>We cover a lot of ground in the episode, including how to help engineers overcome shame that can limit documentation, the glory of the right metrics used the right way and what can happen if you throw yourself into processes passionately. You'll see connections between what we spoke about and my recent <a href="https://lizargall.github.io/blog/process">Attend to the Work</a> blog post.</p>
+<p><img decoding="async" loading="lazy" alt="Comic transcript. Thing 1: I just heard the best advice! Thing 2: Yeah? Thing 1: Get curious when you’re furious. Thing 2 looks a little aghast. Thing 2: YOU get furious? Thing 1 smiles. Thing 1: for sure! Thing 1: But also, curiosity makes me really really happy. Thanks to Kate Mueller for introducing me to this lovely saying." src="https://lizargall.github.io/assets/images/2025-06-26-gardener-liz-c902b1e37dfa24fa34e9ed94648a4e27.png" width="4200" height="2337" class="img_ev3q"></p>
+<p>One of the bits that didn't make it into the episode was Kate telling me the term "Get curious when you get furious." Wise words indeed, even when forces might want to shut your brain down. I know intimately through my Aikido practice how much more powerful I can be when I have play on my mind. We know boxers are getting ready to be dangerous when they get a little loose and light in their body. Play, joy and curiosity are not passive things!
+<img decoding="async" loading="lazy" alt="Comic transcript. Thing 1: I just heard the best advice! Thing 2: Yeah? Thing 1: Get curious when you’re furious. Thing 2 looks a little aghast. Thing 2: YOU get furious? Thing 1 smiles. Thing 1: for sure! Thing 1: But also, curiosity makes me really really happy. Thanks to Kate Mueller for introducing me to this lovely saying." src="https://lizargall.github.io/assets/images/2025-06-26-789-curious-d87df977971b8ca8a18a61ffd6cb2941.png" width="1000" height="1294" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="media-im-enjoying">Media I'm enjoying<a href="https://lizargall.github.io/blog/not-boring#media-im-enjoying" class="hash-link" aria-label="Direct link to Media I'm enjoying" title="Direct link to Media I'm enjoying">​</a></h2>
+<ul>
+<li>Fabrizio Ferri Benedetti <a href="https://passo.uno/things-tech-writers-shouldnt-care-about/" target="_blank" rel="noopener noreferrer">Things technical writers shouldn't care about... yet | Article</a>
+<ul>
+<li>I love this very practical guide around how to prioritize work. Great implementation of permaculture principles ;-).</li>
+</ul>
+</li>
+<li>Technical Writing Uncensored (Diana Payton) <a href="https://www.youtube.com/watch?v=_tKv8OhxXCY" target="_blank" rel="noopener noreferrer">He Built a Tool That Tests Your Docs — Meet Manny Silva</a></li>
+<li>Refined Draft (Kevin A. Cornelius and Gabriel Laskey) <a href="https://refineddraft.substack.com/p/catch-the-failures-that-roadmaps" target="_blank" rel="noopener noreferrer">Catch the Failures that Roadmaps Miss (#6)| Article</a>
+<ul>
+<li>Very relateable, "Even though they don’t fix the product, technical writers can identify issues before the product is released and possible impact to customers."</li>
+</ul>
+</li>
+<li>Neil Patel <a href="https://www.youtube.com/watch?v=VAkJXKZBtCY" target="_blank" rel="noopener noreferrer">The Great Google Reset webinar | YouTube</a>
+<ul>
+<li>While is focused on marketers, it's super relevant for technical writers.</li>
+<li>We are the masters of content that helps people learn things and tackle difficult topics and done right that's content that really punches through in AI summaries.</li>
+</ul>
+</li>
+<li>Little Language Models (Delfina Hoxha), <a href="https://littlelanguagemodels.com/information-architecture-activities-formats/" target="_blank" rel="noopener noreferrer">What’s the format of information architecture work: diagrams, PowerPoint, Figma, Excel? | Article</a></li>
+<li>Not Boring Technical Writer (Kate Mueller):<!-- -->
+<ul>
+<li><a href="https://thenotboringtechwriter.com/episodes/kate-sounds-off-on-write-the-docs" target="_blank" rel="noopener noreferrer">Kate sounds off on Write the Docs</a></li>
+<li><a href="https://thenotboringtechwriter.com/episodes/connecting-permaculture-and-documentation-with-liz-argall" target="_blank" rel="noopener noreferrer">Connecting permaculture and documentation with Liz Argall</a></li>
+</ul>
+</li>
+<li><a href="https://ngombor.org/" target="_blank" rel="noopener noreferrer">Ngombor Community Development Alliance</a>
+<ul>
+<li>I'm the co-founder of an amazing non profit in Uganda. Our website just went live. If you want a little sparkle for your day go check it out.</li>
+<li><a href="https://ngombor.my.canva.site/#sponsor-a-tree" target="_blank" rel="noopener noreferrer">You can even sponsor a tree or chicken!</a></li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="want-to-read-more-blog-posts">Want to read more blog posts?<a href="https://lizargall.github.io/blog/not-boring#want-to-read-more-blog-posts" class="hash-link" aria-label="Direct link to Want to read more blog posts?" title="Direct link to Want to read more blog posts?">​</a></h3>
+<p><a href="https://mailchi.mp/520551e04a4d/documentarians-rock" target="_blank" rel="noopener noreferrer">Subscribe to my newsletter</a> to be emailed whenever I do an update!</p>]]></content:encoded>
+            <category>Friends</category>
+        </item>
         <item>
             <title><![CDATA[Attend to the work]]></title>
             <link>https://lizargall.github.io/blog/process</link>
