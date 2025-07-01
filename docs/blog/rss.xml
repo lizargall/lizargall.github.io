@@ -4,7 +4,7 @@
         <title>Liz Argall Blog</title>
         <link>https://lizargall.github.io/blog</link>
         <description>Liz Argall Blog</description>
-        <lastBuildDate>Wed, 02 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Minutes matter]]></title>
             <link>https://lizargall.github.io/blog/minutes</link>
             <guid>https://lizargall.github.io/blog/minutes</guid>
-            <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[If you want to jump straight into the Agenda and Minutes Template:]]></description>
             <content:encoded><![CDATA[<p><em>If you want to jump straight into the Agenda and Minutes Template:</em></p>
 <ul>
