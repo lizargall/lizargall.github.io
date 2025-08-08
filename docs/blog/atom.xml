@@ -2,11 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lizargall.github.io/blog</id>
     <title>Liz Argall Blog</title>
-    <updated>2025-07-17T00:00:00.000Z</updated>
+    <updated>2025-08-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lizargall.github.io/blog"/>
     <subtitle>Liz Argall Blog</subtitle>
     <icon>https://lizargall.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The value of emotional intelligence in technical writing]]></title>
+        <id>https://lizargall.github.io/blog/emotional-intelligence</id>
+        <link href="https://lizargall.github.io/blog/emotional-intelligence"/>
+        <updated>2025-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IQ predicts how well you'll do in your school years and how much salary you can make over the course of a career because it says what job you can get... but once you're in those professions everybody else is about as smart as you are, and that is where emotional intelligence kicks in. - Daniel Goleman]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>IQ predicts how well you'll do in your school years and how much salary you can make over the course of a career because it says what job you can get... but once you're in those professions everybody else is about as smart as you are, and that is where emotional intelligence kicks in. - <a href="https://www.youtube.com/watch?v=-qmLoJ7-A80" target="_blank" rel="noopener noreferrer">Daniel Goleman</a></p>
+</blockquote>
+<p>Many technical writers are fairly empathic people. To be good at our job, we need to care about user experiences, we need to be able to imagine different scenarios and meet different needs. I know that I am sometimes better at understanding the needs of others than my own. Other peoples needs are interesting puzzles, my own needs can feel more like irritants to be annoyed as they get in the way of me doing stuff!</p>
+<p><img decoding="async" loading="lazy" alt="Emotional Intelligence Comic Transcript. A two column, two row illustrated table. Know and Act are the columns, Self and Others are the rows. Self/Know is self-awareness. Little Liz smiles and looks at herself. Self/Act is self-management. Little Liz sits cross legged in a meditation posture and smiling. Others/Know is social awareness. Little Liz leans forward to look at a dog. Others/Act is relationship management. Little Liz and the dog rush towards each other." src="https://lizargall.github.io/assets/images/2025-08-emotions-e3094d4c906d68b37c7d16e7f9b40dda.png" width="1000" height="1294" class="img_ev3q"></p>
+<p>But, it turns out, if you don't honor all the aspects of emotional intelligence you're selling yourself short and creating problems for yourself. As <a href="https://www.youtube.com/embed/D6_J7FfgWVc?si=gWtKL6b5zx9AesIi" target="_blank" rel="noopener noreferrer">Ramona Hacker points out</a>, too much empathy can sometimes be a barrier to full emotional intelligence. The noise of so much empathy can drown out too many other parts or give the illusion of strong emotional intelligence when there are aspects that need more work.</p>
+<p>Back in the day I may have bluntly asked a therapist, "Is it useful for me to know what exact emotions I'm having? Do they need a label?" She said yes, and while it made my neurodivergent brain feel tired and I'm not quite sure why there have to be quite so many emotions, and aren't the a cultural construct anyway? It has been a useful practice to get to know more about specific emotional variables.</p>
+<p>So in this blog post, I'll list a few emotional intelligence resources I've particularly liked over the years, followed by the regular installment of media I'm enjoying.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="emotional-intelligence-101">Emotional Intelligence 101<a href="https://lizargall.github.io/blog/emotional-intelligence#emotional-intelligence-101" class="hash-link" aria-label="Direct link to Emotional Intelligence 101" title="Direct link to Emotional Intelligence 101">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="emotional-intelligence-the-1-ability-for-leaders">Emotional Intelligence: The #1 ability for leaders<a href="https://lizargall.github.io/blog/emotional-intelligence#emotional-intelligence-the-1-ability-for-leaders" class="hash-link" aria-label="Direct link to Emotional Intelligence: The #1 ability for leaders" title="Direct link to Emotional Intelligence: The #1 ability for leaders">​</a></h3>
+<p>I love how Daniel Goleman breaks down the aspects of emotional intelligence in terms of how you know things and how you act, in relation to yourself or others.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-qmLoJ7-A80?si=spZolSUytQs8bwRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-steps-to-improve-your-emotional-intelligence">6 Steps to Improve Your Emotional Intelligence<a href="https://lizargall.github.io/blog/emotional-intelligence#6-steps-to-improve-your-emotional-intelligence" class="hash-link" aria-label="Direct link to 6 Steps to Improve Your Emotional Intelligence" title="Direct link to 6 Steps to Improve Your Emotional Intelligence">​</a></h3>
+<p>I love how Ramona Hacker talks about how empathy and emotional intelligence are not the same thing. Indeed, sometimes too much empathy can get in the way of well rounded emotional intelligence. I highly recommend her talk to anyone whose first thought about Emotional Intelligence is, "Can we please not talk about emotions?"</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6_J7FfgWVc?si=gWtKL6b5zx9AesIi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>She poses some great questions to ask and some great habits to cultivate (including journaling, which helps to <a href="https://lizargall.github.io/blog/infodump">reduce infodumping</a> as well!)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="self-awareness">Self awareness<a href="https://lizargall.github.io/blog/emotional-intelligence#self-awareness" class="hash-link" aria-label="Direct link to Self awareness" title="Direct link to Self awareness">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-identify-your-emotions">How to identify your emotions<a href="https://lizargall.github.io/blog/emotional-intelligence#how-to-identify-your-emotions" class="hash-link" aria-label="Direct link to How to identify your emotions" title="Direct link to How to identify your emotions">​</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6vwmzog-J8?si=tU0C5JhkAopCpFXt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="self-management">Self management<a href="https://lizargall.github.io/blog/emotional-intelligence#self-management" class="hash-link" aria-label="Direct link to Self management" title="Direct link to Self management">​</a></h2>
+<p>Being resilient is more than brute forcing your way through. What skill am I missing, what can I learn to resolve this? This video has a great set of ideas and examples for anyone who wants to be a bit more of a badass who gets stuff done in a way that takes care of themselves or others.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0VyahIbTmRs?si=f1tYTkT97FMKAWDJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="social-awareness">Social awareness<a href="https://lizargall.github.io/blog/emotional-intelligence#social-awareness" class="hash-link" aria-label="Direct link to Social awareness" title="Direct link to Social awareness">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="did-i-miss-the-memo-missing-information-and-social-cues">Did I miss the memo? (Missing Information and Social Cues)<a href="https://lizargall.github.io/blog/emotional-intelligence#did-i-miss-the-memo-missing-information-and-social-cues" class="hash-link" aria-label="Direct link to Did I miss the memo? (Missing Information and Social Cues)" title="Direct link to Did I miss the memo? (Missing Information and Social Cues)">​</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W3KNFHz26CY?si=2kzq39hGbQRX4wSh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-read-social-cues-better">How to Read Social Cues Better<a href="https://lizargall.github.io/blog/emotional-intelligence#how-to-read-social-cues-better" class="hash-link" aria-label="Direct link to How to Read Social Cues Better" title="Direct link to How to Read Social Cues Better">​</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4_eLUGApApk?si=9d4MOJidQ4uSjnx2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="relationship-management">Relationship management<a href="https://lizargall.github.io/blog/emotional-intelligence#relationship-management" class="hash-link" aria-label="Direct link to Relationship management" title="Direct link to Relationship management">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-art-of-active-listening">The Art of Active Listening<a href="https://lizargall.github.io/blog/emotional-intelligence#the-art-of-active-listening" class="hash-link" aria-label="Direct link to The Art of Active Listening" title="Direct link to The Art of Active Listening">​</a></h3>
+<p>Not just how to listen effectively, but also what listening mode to use in different circumstances.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aDMtx5ivKK0?si=LACqbIFc5Hem6h0h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-force-yourself-to-speak-coherently">How to Force Yourself To Speak Coherently<a href="https://lizargall.github.io/blog/emotional-intelligence#how-to-force-yourself-to-speak-coherently" class="hash-link" aria-label="Direct link to How to Force Yourself To Speak Coherently" title="Direct link to How to Force Yourself To Speak Coherently">​</a></h3>
+<p>An important part of relationships is to be able to talk clearly.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aUBPWT-D5_U?si=GIElkQc7rnog9B0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>You must start poorly!</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="the-60-seconds-that-make-or-break-a-conversation">The 60 seconds that make or break a conversation<a href="https://lizargall.github.io/blog/emotional-intelligence#the-60-seconds-that-make-or-break-a-conversation" class="hash-link" aria-label="Direct link to The 60 seconds that make or break a conversation" title="Direct link to The 60 seconds that make or break a conversation">​</a></h3>
+<p>I'm sure none of us here struggle to immediately get to the point of a conversation, and never ramble, but just in case you do ;-)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rpFmRq5KeJs?si=KA8BurHo1OE0OlHa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="media-im-enjoying">Media I'm enjoying<a href="https://lizargall.github.io/blog/emotional-intelligence#media-im-enjoying" class="hash-link" aria-label="Direct link to Media I'm enjoying" title="Direct link to Media I'm enjoying">​</a></h2>
+<ul>
+<li>Not-boring Tech Writer (Kate Mueller), <a href="https://thenotboringtechwriter.com/episodes/kate-sounds-off-on-good-documentation" target="_blank" rel="noopener noreferrer">Kate sounds off on “good” documentation</a>
+<ul>
+<li>I love how Kate Mueller does reflection episodes. In a world that's go go go, she takes the time to revisit conversations and reflect on things. It's powerful stuff, and really beautiful to see how conversations can lead to conversations that lead to lovely things.</li>
+</ul>
+</li>
+<li>passo.uno (Fabrizio Ferri Benedetti):<!-- -->
+<ul>
+<li><a href="https://passo.uno/the-columbo-technique-for-technical-writers/" target="_blank" rel="noopener noreferrer">The Columbo Technique for Technical Writers</a>
+<ul>
+<li>Columbo has magnificent emotional intelligence. It might be one of my favorite Fabrizio blog posts, as I definitely like channelling my inner Columbo.</li>
+</ul>
+</li>
+<li><a href="https://passo.uno/how-write-tech-docs-quickly/" target="_blank" rel="noopener noreferrer">How I write docs quickly</a></li>
+<li><a href="https://passo.uno/from-tech-writers-to-ai-context-curators/" target="_blank" rel="noopener noreferrer">AI must RTFM: Why technical writers are becoming context curators</a></li>
+</ul>
+</li>
+<li>Big Think (Kim Scott), <a href="https://www.youtube.com/watch?v=kzznRmLNHSA" target="_blank" rel="noopener noreferrer">Radical Respect at Work | YouTube</a></li>
+<li>Tara McMullin, <a href="https://whatworks.fyi/articles/how-to-rethink-work-stress" target="_blank" rel="noopener noreferrer">How to rethink work stress | Article</a>
+<ul>
+<li>"Hatchuel argues that this high reliance on others combined with the ambiguity around one's job increases work intensity. Further, adjusting that intensity is more complicated because the work processes involved are often personal and unarticulated rather than physically observable" - sound familiar?</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="want-to-read-more-blog-posts">Want to read more blog posts?<a href="https://lizargall.github.io/blog/emotional-intelligence#want-to-read-more-blog-posts" class="hash-link" aria-label="Direct link to Want to read more blog posts?" title="Direct link to Want to read more blog posts?">​</a></h3>
+<p><a href="https://mailchi.mp/520551e04a4d/documentarians-rock" target="_blank" rel="noopener noreferrer">Subscribe to my newsletter</a> to be emailed whenever I do an update!</p>
+<p><img decoding="async" loading="lazy" alt="Emotional Intelligence Comic Transcript. A two column, two row illustrated table. Know and Act are the columns, Self and Others are the rows. Self/Know is self-awareness. Little Liz smiles and looks at herself. Self/Act is self-management. Little Liz sits cross legged in a meditation posture and smiling. Others/Know is social awareness. Little Liz leans forward to look at a dog. Others/Act is relationship management. Little Liz and the dog rush towards each other." src="https://lizargall.github.io/assets/images/2025-08-emotions-e3094d4c906d68b37c7d16e7f9b40dda.png" width="1000" height="1294" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Liz Argall</name>
+            <uri>https://github.com/endiliey</uri>
+        </author>
+        <category label="Friends" term="Friends"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What does Ngombor have to do with documentation?]]></title>
         <id>https://lizargall.github.io/blog/ngombor</id>
