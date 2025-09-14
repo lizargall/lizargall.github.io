@@ -4,10 +4,76 @@
         <title>Liz Argall Blog</title>
         <link>https://lizargall.github.io/blog</link>
         <description>Liz Argall Blog</description>
-        <lastBuildDate>Fri, 08 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[A quick note (reducing stigma)]]></title>
+            <link>https://lizargall.github.io/blog/psychosis</link>
+            <guid>https://lizargall.github.io/blog/psychosis</guid>
+            <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[I’ve written, and abandoned, four different blog posts in the last few weeks! Each blog post fighting with itself as it was actually two or three blog posts.]]></description>
+            <content:encoded><![CDATA[<p>I’ve written, and abandoned, four different blog posts in the last few weeks! Each blog post fighting with itself as it was actually two or three blog posts.</p>
+<p>So here’s a quick note that jumps straight to the point, plus the standard "Media I'm enjoying" section at the end.</p>
+<p>Between 2018 and 2020 I had three psychotic episodes. It was terrifying, it caused me to doubt everything. It was isolating and it made me worry I’d never be able to hold down a stressful job again. In 2025, I’m in the best mental health of my life. I love the high stress work I do, and I feel joyfully connected to friends, community and my vocations.</p>
+<p>Three in a hundred people will experience psychosis, but you wouldn’t know it based on what people are prepared to be open about. Autistic people are more likely to experience psychosis and are more likely to <a href="https://www.autistica.org.uk/what-is-autism/psychosis-and-autism" target="_blank" rel="noopener noreferrer">communicate their distress differently</a>, which means that mental health professionals (not to mention friends and family) might not understand the level of trauma and impact.</p>
+<p>This is a technical writing blog. If you’re not neurodivergent, you know people that are. I feel like neurodivergency is pretty neurotypical in technical writing circles! Our people are statistically more likely to go through psychosis, but those that do often brush it off and just get on with things.</p>
+<p><img decoding="async" loading="lazy" alt="Cartoon transcript. Between 2018 and 2020 I experienced THREE psychotic episodes. I was sucked into a world of delusion, a complex, forever evolving mystery thriller. It was amazing, to start with. All the anxiety of pre-psychosis paranoia fell away. Instead I was at the center of the most epic story of all time. If I got things right we&amp;#39;d: Take down the conspiracy; fix climate change; create world peace; usher in a new age." src="https://lizargall.github.io/assets/images/2025-09-madness-91686344ee9f974cdd14c13f2d77c21d.png" width="1000" height="1294" class="img_ev3q"></p>
+<p>Psychosis is a profoundly isolating trauma and the stigma makes it more isolating. I’m a cartoonist as well as a technical writer, so since 2020 I’ve been making art to help folks like me feel less alone and help their loved ones understand psychosis a little better. There are precious few psychosis survivors who are open about their experiences that aren’t folks with tenure, working in mental health fields or in extreme crisis. I want to help build a broader picture of what psychosis survivors look like.</p>
+<p>I think it’s particularly important for our communities that have more neurodivergency, we need to look out for our people.</p>
+<p>Whether you’ve been through it yourself, or want to understand something some of our people survive I encourage you read my comic in the Seattle Times, “<a href="https://www.seattletimes.com/seattle-news/mental-health/an-cartoonists-experience-with-psychosis-mental-health-perspectives/" target="_blank" rel="noopener noreferrer">A cartoonist’s experience with psychosis</a>.”</p>
+<p>Enormous gratitude to Taylor Blatchford, of the Seattle Times, for supporting me to tell my story.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="media-im-enjoying"><strong>Media I'm enjoying</strong><a href="https://lizargall.github.io/blog/psychosis#media-im-enjoying" class="hash-link" aria-label="Direct link to media-im-enjoying" title="Direct link to media-im-enjoying">​</a></h2>
+<ul>
+<li>The Connector (Manny Frishberg), <a href="https://prforpeople.com/news/education/ngombor-hope-heart-uganda" target="_blank" rel="noopener noreferrer">Ngombor, Hope in the Heart of Uganda</a>
+<ul>
+<li>Ngombor Community Development Alliance, the organization I've co-founded, in the news!</li>
+<li>Go to our <a href="https://www.gofundme.com/f/support-ngombors-sustainable-future" target="_blank" rel="noopener noreferrer">GoFundMe</a> for the latest updates, photos and to see how a donation can make a difference.<!-- -->
+<ul>
+<li>Right now your donation will help pay for external windows and doors!</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Abby Covert, <a href="https://www.howtomakesenseofanymess.com/" target="_blank" rel="noopener noreferrer">How to Make Sense of Any Mess</a>
+<ul>
+<li>Fundamentals of information architecture</li>
+<li>Some handy frameworks for dealing with "The moments where confusion, procrastination, self-criticism, and frustration keep us from changing the world."</li>
+</ul>
+</li>
+<li>Hank Green, <a href="https://youtu.be/f_Rqf-vxBM8?si=UWj8DNKPzSzvkX8E" target="_blank" rel="noopener noreferrer">Don't Follow Your Dreams, Follow Your Tools | YouTube</a>
+<ul>
+<li>This is certainly how I'm as productive as I am, even with a disrupted career!</li>
+</ul>
+</li>
+<li>Christina Mayr, <a href="https://medium.com/@christinaemayr/how-to-let-them-2bb612b98898" target="_blank" rel="noopener noreferrer">How to "Let them" | Article</a>
+<ul>
+<li>It is so easy to get caught up in ALL THE THINGS when you're a technical writer</li>
+</ul>
+</li>
+<li>Nataliya Kosmyna, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, Pattie Maes, <a href="https://arxiv.org/abs/2506.08872" target="_blank" rel="noopener noreferrer">Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task | ArXiv paper</a>
+<ul>
+<li>This part is particularly pertinent when we often need to know our docs quite well and be able to bring them to mind when thinking about updates, "LLM users also struggled to accurately quote their own work."</li>
+</ul>
+</li>
+<li>Docuwiz Podcast (Anurag Shukla), <a href="https://docuwiz.substack.com/p/blueprints-for-scalable-documentation" target="_blank" rel="noopener noreferrer">Interview with Diana Payton Blueprints for Scalable Documentation | Podcast</a>
+<ul>
+<li>Anurag has created a new podcast and I've been really impressed by how thoughtfully he puts together each interview. Full disclosure, I'll be in an upcoming episode!</li>
+</ul>
+</li>
+<li>Not Boring Technical Writer (Kate Mueller), <a href="https://thenotboringtechwriter.com/episodes/kate-sounds-off-on-cognitive-capital-and-learning" target="_blank" rel="noopener noreferrer">Kate sounds off on cognitive capital and learning | Podcast</a></li>
+<li>Write the Docs, <a href="https://www.writethedocs.org/blog/newsletter-september-2025/" target="_blank" rel="noopener noreferrer">Write the Docs Newsletter – September 2025 | Newsletter</a>
+<ul>
+<li>If you're interested in technical writing, subscribing to the Write the Docs Newsletter goes without saying. So much so that it's taken me this long to say anything!</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="want-to-read-more-blog-posts"><strong>Want to read more blog posts?</strong><a href="https://lizargall.github.io/blog/psychosis#want-to-read-more-blog-posts" class="hash-link" aria-label="Direct link to want-to-read-more-blog-posts" title="Direct link to want-to-read-more-blog-posts">​</a></h3>
+<p><a href="https://mailchi.mp/520551e04a4d/documentarians-rock" target="_blank" rel="noopener noreferrer">Subscribe to my newsletter</a> to be emailed whenever I do an update!</p>]]></content:encoded>
+            <category>Friends</category>
+            <category>Human Health</category>
+        </item>
         <item>
             <title><![CDATA[The value of emotional intelligence in technical writing]]></title>
             <link>https://lizargall.github.io/blog/emotional-intelligence</link>
@@ -114,10 +180,10 @@
 <p>So I said, "Ok, well to start with, we'll need a website, and in terms of empowerment, lets teach folks in Nebbi how to build and maintain the website." This was a starting point that was in my wheelhouse. I was a little overwhelmed by how I was suddenly helping Vince found a permaculture farm. It was not what I had anticipated when I'd reached out, but I wanted to do what I could.</p>
 <p>I also knew, from the experience of my father and the call to action from Muheue's talk, that turning up for 10 minutes every week was more important than being a flash in the pan. We didn't have a clear map when we started out, but I knew that turning up regularly was something I could do.</p>
 <p>I knew that <a href="https://www.youtube.com/watch?v=dAONlfoNVuY" target="_blank" rel="noopener noreferrer">from little things big things grow</a>. I knew that Vince was a great human being, and I knew that the community around him was great as well. I knew that if we were to build a thing we'd do it a step at a time. I knew we'd need to talk to a lot of people and get a lot of blank looks, but I knew that if we kept at it, something would happen. I knew that building a website could be done with a text editor and free hosting on GitHub, <a href="https://www.gofundme.com/f/support-ngombors-sustainable-future" target="_blank" rel="noopener noreferrer">unlike the cost of building a farm</a>.</p>
-<p>In these early stages of, "What exactly have I signed up for?!" I reached out to the Write the Docs Slack and asked for recommendations for the best path for building a website. I asked static website generator? Wordpress? HTML? We discussed the options and agreed that plain HTML and CSS would be the best approach, provide a foundation that could build towards programming.</p>
+<p>In these early stages of, "What exactly have I signed up for?!" I reached out to the Write the Docs Slack and asked for recommendations for the best path for building a website. I asked static website generator? Wordpress? HTML? We discussed the options and agreed that plain HTML and CSS would be the best approach and would provide a foundation that could build towards programming.</p>
 <p><img decoding="async" loading="lazy" alt="Help us bridge the digital divide" src="https://lizargall.github.io/assets/images/2025-07-ngombor2-d2b2c9b9ce5726d7d8e562a06b2391b1.png" width="1280" height="1280" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-do-i-teach-my-rusty-html-asynchronously-remotely-while-in-the-wrong-time-zone">How do I teach my rusty HTML asynchronously, remotely, while in the wrong time zone?<a href="https://lizargall.github.io/blog/ngombor#how-do-i-teach-my-rusty-html-asynchronously-remotely-while-in-the-wrong-time-zone" class="hash-link" aria-label="Direct link to How do I teach my rusty HTML asynchronously, remotely, while in the wrong time zone?" title="Direct link to How do I teach my rusty HTML asynchronously, remotely, while in the wrong time zone?">​</a></h3>
-<p>I was trying to teach Vince HTML remotely over email and the logistics of it (not to mention the time zone differences) was feeling a little bit impossible. I thought, if someone in Uganda can teach him GitHub then he can set up his students with that and it will be easier for us to swap files and see what we're doing. If we can set it up properly, maybe we can chunk work up into simpler, smaller bite sized pieces that would make it easier for other volunteers to come help us.</p>
+<p>I was trying to teach Vince HTML remotely over email and the logistics of it (not to mention the time zone differences) made it start to feel a little bit impossible. I thought, if someone in Uganda can teach him GitHub then he can set up his students with that and it will be easier for us to swap files and see what we're doing. If we can set it up properly, maybe we can chunk work up into simpler, smaller bite sized pieces that would make it easier for other volunteers to come help us.</p>
 <p>I thought, there's no way I can teach Vince how to use GitHub remotely if we're struggling with HTML! So I looked around for local resources. I found out where <a href="https://ug.pycon.org/" target="_blank" rel="noopener noreferrer">PyCon Uganda</a> was held in 2024 and asked if there was someone who could teach Vince GitHub next time he was in Kampala.</p>
 <p>For context Nebbi District, where Ngombor is based, is a day's travel to get to Kampala. It's not something that's accessible to most people in Nebbi, but Vince was going to be in Kampala the following month, so I wondered if someone could spend half an hour showing Vince GitHub.</p>
 <p><img decoding="async" loading="lazy" alt="Map showing Nebbi near the DR Congo border in Northern Uganda, with an arrow showing the long distance to get to Kampala in Central District" src="https://lizargall.github.io/assets/images/nebbi-kampala-e52c3609e83583066d6e5c16d28dba03.png" width="1546" height="918" class="img_ev3q"></p>
@@ -134,9 +200,9 @@
 <p><img decoding="async" loading="lazy" alt="Thank you donors!" src="https://lizargall.github.io/assets/images/2025-07-ngombor5-edcfc4128937e33ccc953c78c1db48ff.png" width="1280" height="1280" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="are-all-animals-fish-is-everything-technical-writing"><a href="https://www.youtube.com/watch?v=fQfy_p9ELBw" target="_blank" rel="noopener noreferrer">Are all animals fish?</a> Is everything technical writing?<a href="https://lizargall.github.io/blog/ngombor#are-all-animals-fish-is-everything-technical-writing" class="hash-link" aria-label="Direct link to are-all-animals-fish-is-everything-technical-writing" title="Direct link to are-all-animals-fish-is-everything-technical-writing">​</a></h3>
 <p>Ngombor is a work in progress, it evolves. So much about starting an organization is about communication, so my skills as a writer have served me more times that I can count. My experience wrestling with large documentation projects helps me triage what is important. If I do get stuck in the weeds, I can at least recognize it and give myself a kind smile and a laugh.</p>
-<p>What I love about Technical Writing is how it makes more of the world more accessible to more people. When it's in documentation it doesn't depend on finding out who holds the lore and how they like their coffee! With good technical writing people should feel invited and welcomed into participation, not feel like they have to prove themselves to gate keepers. I like to say documentation is a human rights issue. We all have a right to be able to participate without currying favor.</p>
+<p>One thing I love about technical writing is how it makes more of the world more accessible to more people. When it's in documentation it doesn't depend on finding out who holds the lore and how they like their coffee! With good technical writing people should feel invited and welcomed into participation, not feel like they have to prove themselves to gate keepers. I like to say documentation is a human rights issue. We all have a right to be able to participate without currying favor.</p>
 <p>Technical writing is about creating empowering spaces that support others achieve their goals. Technical writing is about being there for people when they're frazzled and annoyed and just want to get back to playing the game.</p>
-<p>The philosophies and skills of Technical Writing have helped me co-found Ngombor. With the help of lots of different folks around the globe we are enabling a impactful, empowering, community owned and led difference in Uganda.</p>
+<p>The philosophies and skills of technical writing have helped me co-found Ngombor. With the help of lots of different folks around the globe we are enabling a impactful, empowering, community owned and led difference in Uganda.</p>
 <p><img decoding="async" loading="lazy" alt="Close up of two seedlings, prior to being planted" src="https://lizargall.github.io/assets/images/2025-07-ngombor-seedlings-9a47db4827792d8a3e9386fdaa4bfb2a.png" width="1024" height="1024" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="if-youre-not-already-helping-folks-in-africa-maybe-dabble-your-toes-in-the-water-by-helping-us">If you're not already helping folks in Africa, maybe dabble your toes in the water by helping us?<a href="https://lizargall.github.io/blog/ngombor#if-youre-not-already-helping-folks-in-africa-maybe-dabble-your-toes-in-the-water-by-helping-us" class="hash-link" aria-label="Direct link to If you're not already helping folks in Africa, maybe dabble your toes in the water by helping us?" title="Direct link to If you're not already helping folks in Africa, maybe dabble your toes in the water by helping us?">​</a></h3>
 <p>Africa has been through some pretty horrible stuff thanks to colonialism, and I think it's good for the soul to help out in a way that's meaningful for you. Africa is not a big monolith you have to save. It's a place full of different countries, cultures, spaces and people where your attention can help.</p>
