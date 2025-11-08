@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lizargall.github.io/blog</id>
     <title>Liz Argall Blog</title>
-    <updated>2025-09-14T00:00:00.000Z</updated>
+    <updated>2038-01-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lizargall.github.io/blog"/>
     <subtitle>Liz Argall Blog</subtitle>
     <icon>https://lizargall.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Webring]]></title>
+        <id>https://lizargall.github.io/blog/community</id>
+        <link href="https://lizargall.github.io/blog/community"/>
+        <updated>2038-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A community of practice]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-community-of-practice">A community of practice<a href="https://lizargall.github.io/blog/community#a-community-of-practice" class="hash-link" aria-label="Direct link to A community of practice" title="Direct link to A community of practice">​</a></h2>
+<p>lizargall.github.io is part of the <a href="https://caseyrfsmith.github.io/webring/">Tech Writing Blog Webring</a></p>
+<p></p><p><a href="https://caseyrfsmith.github.io/webring/navigate.html?action=prev&amp;site=YOUR-SITE-URL">Previous</a> |
+<a href="https://caseyrfsmith.github.io/webring/navigate.html?action=next&amp;site=YOUR-SITE-URL">Next</a> |
+<a href="https://caseyrfsmith.github.io/webring/navigate.html?action=random&amp;site=YOUR-SITE-URL">Random</a></p><p></p>]]></content>
+        <author>
+            <name>Liz Argall</name>
+            <uri>https://github.com/endiliey</uri>
+        </author>
+        <category label="Friends" term="Friends"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A quick note (reducing stigma)]]></title>
         <id>https://lizargall.github.io/blog/psychosis</id>

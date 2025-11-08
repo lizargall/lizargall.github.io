@@ -4,10 +4,23 @@
         <title>Liz Argall Blog</title>
         <link>https://lizargall.github.io/blog</link>
         <description>Liz Argall Blog</description>
-        <lastBuildDate>Sun, 14 Sep 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2038 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Webring]]></title>
+            <link>https://lizargall.github.io/blog/community</link>
+            <guid>https://lizargall.github.io/blog/community</guid>
+            <pubDate>Tue, 19 Jan 2038 00:00:00 GMT</pubDate>
+            <description><![CDATA[A community of practice]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-community-of-practice">A community of practice<a href="https://lizargall.github.io/blog/community#a-community-of-practice" class="hash-link" aria-label="Direct link to A community of practice" title="Direct link to A community of practice">​</a></h2>
+<p>lizargall.github.io is part of the <a href="https://caseyrfsmith.github.io/webring/">Tech Writing Blog Webring</a></p>
+<p></p><p><a href="https://caseyrfsmith.github.io/webring/navigate.html?action=prev&amp;site=YOUR-SITE-URL">Previous</a> |
+<a href="https://caseyrfsmith.github.io/webring/navigate.html?action=next&amp;site=YOUR-SITE-URL">Next</a> |
+<a href="https://caseyrfsmith.github.io/webring/navigate.html?action=random&amp;site=YOUR-SITE-URL">Random</a></p><p></p>]]></content:encoded>
+            <category>Friends</category>
+        </item>
         <item>
             <title><![CDATA[A quick note (reducing stigma)]]></title>
             <link>https://lizargall.github.io/blog/psychosis</link>
