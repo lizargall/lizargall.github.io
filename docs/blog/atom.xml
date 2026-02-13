@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lizargall.github.io/blog</id>
     <title>Liz Argall Blog</title>
-    <updated>2025-11-07T00:00:00.000Z</updated>
+    <updated>2026-02-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lizargall.github.io/blog"/>
     <subtitle>Liz Argall Blog</subtitle>
     <icon>https://lizargall.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sharing the Awesome]]></title>
+        <id>https://lizargall.github.io/blog/awesome</id>
+        <link href="https://lizargall.github.io/blog/awesome"/>
+        <updated>2026-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As technical writers and documentarians we help facilitate awesome.]]></summary>
+        <content type="html"><![CDATA[<p>As technical writers and documentarians we help facilitate awesome.</p>
+<p><a href="https://projectforawesome.com/" target="_blank" rel="noopener noreferrer" class="">Project for Awesome</a> is a wonderful annual event held by the Vlog Brothers Hank and John Green, oriented towards reducing the world’s suck. And wow do we need that right now! From it’s humble beginnings flooding the YouTube algorithms to a powerhouse fundraising event that makes substantial differences in the world. In 2025, Project for Awesome raised $3,739,918, including several generous matching donations from individuals and organizations. 50% of donations went to <a href="https://www.savethechildren.org/" target="_blank" rel="noopener noreferrer" class="">Save the Children</a> and <a href="https://www.pih.org/" target="_blank" rel="noopener noreferrer" class="">Partners in Health</a>, and 50% of donations were split between 30 charities chosen by the P4A community.</p>
+<p>Project for Awesome inspires people to donate money through joyful incentives, sense of community and a fantastic live stream event (starting <a href="https://projectforawesome.com/schedule" target="_blank" rel="noopener noreferrer" class="">Friday 13 February at noon EST</a>). It encourages people to squee about non profits they like and give a platform for non profits to squee about what they do. People can then vote for non profits they like.</p>
+<p>Voting is simple and free. When you press sign in you’ll be invited to put in your email. It will email you a magic link, you click that link and you’re signed into the website. You can then vote for as many non profits as you like. With the enormous success of 2025, more non-profits than ever have put up videos, which is exciting, but also a little overwhelming. It can make things feel a little less intimate and a bit more like a grind. It got me wondering how we can make things feel more like a village when there are sooooo many great causes.</p>
+<p>So! I propose Sharing the Awesome. I invite you to go through the Project for Awesome website and pick out a few non-profits that inspire you. Share the love, let us squee. Lets rise each other up when it could feel like a wild and lonely scrabble for votes. We are in this together.</p>
+<h1>Some of the awesome</h1>
+<ol>
+<li class=""><a href="https://projectforawesome.com/videos/ngombor-project-for-awesome-2026" target="_blank" rel="noopener noreferrer" class="">Ngombor</a> means hope - I made this video! ^_^</li>
+</ol>
+<p>Ngombor is a non profit based in Uganda that combines agriculture and tech to make a lasting difference in Northern Uganda. Funds raised would help us do things like dig a well, train folks in sustainable agriculture, create IT opportunities… and if we get this grant we might even have the cash to get a toilet door! <a href="https://ngombor.org/" target="_blank" rel="noopener noreferrer" class="">https://ngombor.org/</a></p>
+<ol start="2">
+<li class=""><a href="https://projectforawesome.com/videos/village-alliance-of-the-southern-tier-vast-p4-a-2026" target="_blank" rel="noopener noreferrer" class="">Village Alliance of the Southern Tier (VAST)</a> - if you weren’t sure what Project for Awesome was, this is the BEST intro to the lovelyness.</li>
+</ol>
+<p>Awwww yes!! They’re about the same age as us and wooohooo, look at that awesome enthusiasm and making a change. Yaaaaaaaaay!</p>
+<ol start="3">
+<li class=""><a href="https://projectforawesome.com/videos?charityId=comnxih8lefcg552bptx4dw4&amp;q=thirst" target="_blank" rel="noopener noreferrer" class="">Thirst Project</a> - it’s about wells and water security, not thirsty fans ;-)</li>
+</ol>
+<p>Well done Thirst Project getting a bunch of youth ambassadors to make videos and stretch their comfort zone. Folks at Ngombor are all too aware of how harmful it is not to have access to clean water.</p>
+<ol start="4">
+<li class=""><a href="https://projectforawesome.com/videos/project-for-awesome-2026-autistica" target="_blank" rel="noopener noreferrer" class="">Autistica</a> - Helping autistic people live happier, healthier longer lives.</li>
+</ol>
+<p>My life got totally shattered by some pretty scary health stuff about six years ago. Autistica’s resources and articles helped my brain heal and gave me a vocabulary for understanding myself and expressing my needs. They have helped me live a happier, healthier and longer life!</p>
+<ol start="5">
+<li class=""><a href="https://projectforawesome.com/videos/science-is-under-attack-what-do-we-do" target="_blank" rel="noopener noreferrer" class="">Union of Concerned Scientists</a> - The Union of Concerned Scientists is a member-supported nonprofit that’s fighting for a safer and healthier world.</li>
+</ol>
+<p><a href="https://www.youtube.com/@zentouro" target="_blank" rel="noopener noreferrer" class="">Zentouro</a> also has a terrific YouTube channel if you’re interested in environmental sustainability and activism.</p>
+<p>Lets keep up sharing the awesome! <a href="https://passo.uno/" target="_blank" rel="noopener noreferrer" class="">Fabrizio Ferri Benedetti (passo.uno)</a> and John Stavropoulos (knows what a Greek salad should be) I tag you, what causes excite you? And if you see it and want to join in the fun, please do and tag others and pass it on. Let's make this an ongoing wave of awesome love.</p>]]></content>
+        <author>
+            <name>Liz Argall</name>
+            <uri>https://www.linkedin.com/in/lizargall/</uri>
+        </author>
+        <category label="Friends" term="Friends"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Communities of practice]]></title>
         <id>https://lizargall.github.io/blog/community-love</id>
