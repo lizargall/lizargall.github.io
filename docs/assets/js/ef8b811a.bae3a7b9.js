@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[8947],{6600(a){a.exports=JSON.parse('{"authors":[{"name":"Liz Argall","title":"Technical Writer and Program Manager","url":"https://www.linkedin.com/in/lizargall/","imageURL":"https://avatars.githubusercontent.com/u/46635699","key":"liz","page":null,"count":15}]}')}}]);

@@ -4,10 +4,46 @@
         <title>Liz Argall Blog</title>
         <link>https://lizargall.github.io/blog</link>
         <description>Liz Argall Blog</description>
-        <lastBuildDate>Thu, 12 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[AI as code switching and masking]]></title>
+            <link>https://lizargall.github.io/blog/code-switching</link>
+            <guid>https://lizargall.github.io/blog/code-switching</guid>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[For some generative AI has felt like a liberation. At long last they can communicate in a way that is heard and understood.]]></description>
+            <content:encoded><![CDATA[<p>For some generative AI has felt like a liberation. At long last they can communicate in a way that is heard and understood.</p>
+<p>But it's useful sometimes to pause and think, liberated from what? When something is used as an assistive device it is handy to think why it is needed? What other factors are in play?</p>
+<p>Generative AI is a statistical aggregate machine. Sometimes it can be good at surfacing what should be good practices that too often aren’t followed (like when a manager makes a dodgy decision by themselves, when talking to any HR person might help them follow best practice). While it can be useful, AI is best at continuing the way things have been done and smoothly perpetuating dominant hegemony.</p>
+<p>When someone might feel the need to mask or code switch their language using AI, I think it is up to us to <a class="" href="https://lizargall.github.io/blog/emotional-intelligence">self interrogate</a>. Why might this person want to smooth down their individual edges?</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKn7XAMNV-g?si=FnsdwSNv4I2lRUOG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p>Is it because Indian English is just as valid as American, Canadian or Australian English but is not treated that way? Is it that we have biases against dialects? Is it because we have biases about people who aren't fluent speakers in a dominant language (even if they might be academic scholars in their home country)?</p>
+<p>Do we depend too much on written language, when pathways for verbal communicators (be it out of disability or ability) are valuable. For some people a meeting is so much better than an email!</p>
+<p>When people need to use assistive devices to feel seen, heard or valued, we should consider how the structures of our spaces contribute to this being necessary.</p>
+<p>Thanks to Tal Gluck for an excellent conversation that prompted this post. Check out the <a href="https://www.stateofdocs.com/" target="_blank" rel="noopener noreferrer" class="">State of the Docs</a> when it comes out.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="media-im-enjoying">Media I'm enjoying<a href="https://lizargall.github.io/blog/code-switching#media-im-enjoying" class="hash-link" aria-label="Direct link to Media I'm enjoying" title="Direct link to Media I'm enjoying" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://www.verywellmind.com/what-is-code-switching-5270156" target="_blank" rel="noopener noreferrer" class="">Code Switching: How and Why It Happens</a>
+<ul>
+<li class="">Includes guidance around how to create safer, more inclusive spaces</li>
+</ul>
+</li>
+<li class="">passo.uno (Fabrizio Ferri Benedetti) <a href="https://passo.uno/reconsider/" target="_blank" rel="noopener noreferrer" class="">To Those Who Fired or Didn't Hire Tech Writers Because of AI</a></li>
+<li class="">Tara McMullin, <a href="https://whatworks.fyi/articles/search-engine-ai-chatbot" target="_blank" rel="noopener noreferrer" class="">What is a search engine</a></li>
+<li class="">Dawn Foster, <a href="https://fastwonderblog.com/2025/12/03/good-governance-for-open-source-projects/" target="_blank" rel="noopener noreferrer" class="">Good Governance for Open Source Projects</a></li>
+<li class="">Story Needle (Michael Andrews), <a href="https://storyneedle.com/helping-people-make-tough-choices/" target="_blank" rel="noopener noreferrer" class="">Helping people make tough choices</a></li>
+<li class="">David LaMotte TED talk, <a href="https://youtu.be/pdwip2_gM8M?si=K2_s0KJXLJg7zbjA" target="_blank" rel="noopener noreferrer" class="">Music can help us understand peace and conflict</a>
+<ul>
+<li class="">On the surface of things it's about music, but it's also about how we turn up for each other. How can we listen and be more attentive in ways that reduce the needs for code switching and masking?</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="want-to-read-more-blog-posts">Want to read more blog posts?<a href="https://lizargall.github.io/blog/code-switching#want-to-read-more-blog-posts" class="hash-link" aria-label="Direct link to Want to read more blog posts?" title="Direct link to Want to read more blog posts?" translate="no">​</a></h3>
+<p><a href="https://mailchi.mp/520551e04a4d/documentarians-rock" target="_blank" rel="noopener noreferrer" class="">Subscribe to my newsletter</a> to be emailed whenever I do an update!</p>]]></content:encoded>
+            <category>Friends</category>
+        </item>
         <item>
             <title><![CDATA[Sharing the Awesome]]></title>
             <link>https://lizargall.github.io/blog/awesome</link>
@@ -15,7 +51,7 @@
             <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[As technical writers and documentarians we help facilitate awesome.]]></description>
             <content:encoded><![CDATA[<p>As technical writers and documentarians we help facilitate awesome.</p>
-<p><a href="https://projectforawesome.com/" target="_blank" rel="noopener noreferrer" class="">Project for Awesome</a> is a wonderful annual event held by the Vlog Brothers Hank and John Green, oriented towards reducing the world’s suck. And wow do we need that right now! From it’s humble beginnings flooding the YouTube algorithms to a powerhouse fundraising event that makes substantial differences in the world. In 2025, Project for Awesome raised $3,739,918, including several generous matching donations from individuals and organizations. 50% of donations went to <a href="https://www.savethechildren.org/" target="_blank" rel="noopener noreferrer" class="">Save the Children</a> and <a href="https://www.pih.org/" target="_blank" rel="noopener noreferrer" class="">Partners in Health</a>, and 50% of donations were split between 30 charities chosen by the P4A community.</p>
+<p><a href="https://projectforawesome.com/" target="_blank" rel="noopener noreferrer" class="">Project for Awesome</a> is a wonderful annual event held by the Vlog Brothers Hank and John Green, oriented towards reducing the world’s suck. And wow do we need that right now! From its humble beginnings flooding the YouTube algorithms to a powerhouse fundraising event that makes substantial differences in the world. In 2025, Project for Awesome raised $3,739,918, including several generous matching donations from individuals and organizations. 50% of donations went to <a href="https://www.savethechildren.org/" target="_blank" rel="noopener noreferrer" class="">Save the Children</a> and <a href="https://www.pih.org/" target="_blank" rel="noopener noreferrer" class="">Partners in Health</a>, and 50% of donations were split between 30 charities chosen by the P4A community.</p>
 <p>Project for Awesome inspires people to donate money through joyful incentives, sense of community and a fantastic live stream event (starting <a href="https://projectforawesome.com/schedule" target="_blank" rel="noopener noreferrer" class="">Friday 13 February at noon EST</a>). It encourages people to squee about non profits they like and give a platform for non profits to squee about what they do. People can then vote for non profits they like.</p>
 <p>Voting is simple and free. When you press sign in you’ll be invited to put in your email. It will email you a magic link, you click that link and you’re signed into the website. You can then vote for as many non profits as you like. With the enormous success of 2025, more non-profits than ever have put up videos, which is exciting, but also a little overwhelming. It can make things feel a little less intimate and a bit more like a grind. It got me wondering how we can make things feel more like a village when there are sooooo many great causes.</p>
 <p>So! I propose Sharing the Awesome. I invite you to go through the Project for Awesome website and pick out a few non-profits that inspire you. Share the love, let us squee. Lets rise each other up when it could feel like a wild and lonely scrabble for votes. We are in this together.</p>
