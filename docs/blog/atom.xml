@@ -12,8 +12,8 @@
         <id>https://lizargall.github.io/blog/state-of-the-docs</id>
         <link href="https://lizargall.github.io/blog/state-of-the-docs"/>
         <updated>2026-03-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The AI revolution is laying bare so many biases, LLM bad behavior and ChatGPT hallucinations revealing the chat room cruelties in its learning data. Research and lawsuits keep piling up around how AI job screening tools discriminate illegally, be it age, gender or ethnicity.]]></summary>
-        <content type="html"><![CDATA[<p>The AI revolution is laying bare so many biases, LLM bad behavior and ChatGPT hallucinations revealing the chat room cruelties in its learning data. Research and lawsuits keep piling up around how AI job screening tools discriminate illegally, be it age, gender or ethnicity.</p>
+        <summary type="html"><![CDATA[The AI revolution is laying bare so many biases. LLM bad behavior and ChatGPT hallucinations revealing the chat room cruelties in its learning data. Research and lawsuits keep piling up around how AI job screening tools discriminate illegally, be it age, gender or ethnicity.]]></summary>
+        <content type="html"><![CDATA[<p>The AI revolution is laying bare so many biases. LLM bad behavior and ChatGPT hallucinations revealing the chat room cruelties in its learning data. Research and lawsuits keep piling up around how AI job screening tools discriminate illegally, be it age, gender or ethnicity.</p>
 <p>The biases against technical writing are a little bit more complex. For so many decades, the hallmark of great technical writing was that it was invisible. It seamlessly supported people and the author was not obvious. Now these humble habits of best practice mean we're not in the training data. The corpus of training data LLMs rely on to understand speech (regardless of what the question is) skews heavily towards sales and marketing brochures and does not see the invisible effort of so many content creators. The tip of the iceberg is mistaken for the whole thing.</p>
 <p>The release of the <a href="https://www.stateofdocs.com/2026/introduction-and-demographics" target="_blank" rel="noopener noreferrer" class="">State of the Docs report 2026</a> is a snapshot of where the industry is and provides a vital path forward to a better docs ecosystem in the coming years. Over a thousand people responded from across the world of documentation. It's such a timely and important document as our content landscape radically shifts. It's an honor to be included as one of the people interviewed and quoted.</p>
 <p><a href="https://www.stateofdocs.com/2026" target="_blank" rel="noopener noreferrer" class="">
@@ -42,7 +42,7 @@
 <li class="">Great breakdown of how AI skills are helpful and the very real ways unmanaged skills can create problems.</li>
 </ul>
 </li>
-<li class="">Instruction Manuel (Manny Silva), <a href="https://instructionmanuel.com/writing-skills-agents-can-execute" target="_blank" rel="noopener noreferrer" class="">Writing Skills That Agents Can Actually Execute</a>
+<li class="">Instruction Manuel (Manny Silva), <a href="https://instructionmanuel.com/writing-skills-agents-can-execute" target="_blank" rel="noopener noreferrer" class="">Writing skills that agents can actually execute</a>
 <ul>
 <li class="">Very practical guide for writing skills for AI</li>
 </ul>
