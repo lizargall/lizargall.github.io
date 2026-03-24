@@ -4,10 +4,61 @@
         <title>Liz Argall Blog</title>
         <link>https://lizargall.github.io/blog</link>
         <description>Liz Argall Blog</description>
-        <lastBuildDate>Thu, 05 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[State of the Docs 2026]]></title>
+            <link>https://lizargall.github.io/blog/state-of-the-docs</link>
+            <guid>https://lizargall.github.io/blog/state-of-the-docs</guid>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[The AI revolution is laying bare so many biases, LLM bad behavior and ChatGPT hallucinations revealing the chat room cruelties in its learning data. Research and lawsuits keep piling up around how AI job screening tools discriminate illegally, be it age, gender or ethnicity.]]></description>
+            <content:encoded><![CDATA[<p>The AI revolution is laying bare so many biases, LLM bad behavior and ChatGPT hallucinations revealing the chat room cruelties in its learning data. Research and lawsuits keep piling up around how AI job screening tools discriminate illegally, be it age, gender or ethnicity.</p>
+<p>The biases against technical writing are a little bit more complex. For so many decades, the hallmark of great technical writing was that it was invisible. It seamlessly supported people and the author was not obvious. Now these humble habits of best practice mean we're not in the training data. The corpus of training data LLMs rely on to understand speech (regardless of what the question is) skews heavily towards sales and marketing brochures and does not see the invisible effort of so many content creators. The tip of the iceberg is mistaken for the whole thing.</p>
+<p>The release of the <a href="https://www.stateofdocs.com/2026/introduction-and-demographics" target="_blank" rel="noopener noreferrer" class="">State of the Docs report 2026</a> is a snapshot of where the industry is and provides a vital path forward to a better docs ecosystem in the coming years. Over a thousand people responded from across the world of documentation. It's such a timely and important document as our content landscape radically shifts. It's an honor to be included as one of the people interviewed and quoted.</p>
+<p><a href="https://www.stateofdocs.com/2026" target="_blank" rel="noopener noreferrer" class="">
+<img decoding="async" loading="lazy" alt="The state of the docs comprehensive report explores how teams track their docs&amp;#39; success, the future of the industry, the ongoing impact of AI on documentation, and much more. Read the 2026 report. 1,131 total respondents, with roles across multiple disciplines. Made by GitBook" src="https://lizargall.github.io/assets/images/2026-03-state-of-the-docs-ab49ce55252bd1df6d1406ee4fd76c6b.png" width="800" height="463" class="img_ev3q"></a></p>
+<p>There are facts and figures that are grim for our industry, no denying it. But I hope when documentarians, content champions and forward thinking leaders work on this together we can shift the tides. I am more firmly convinced than ever that content experts (technical writers, taxonomists, journalists and so on) should be at the forefront of that change, not what gets left behind. In this report it's great to see incredible thinkers and organizations stepping up to this conviction.</p>
+<p>As Fabrizio has said, the <a href="https://passo.uno/real-cost-of-documentation/" target="_blank" rel="noopener noreferrer" class="">writing was always the cheap part</a>, "Good docs require friction, tension, and truth." A good technical writer combines the investigative curiosity of the journalist, the pragmatism and instructional design of a teacher and the empathy of a skilled facilitator. Folks get focused on the product, the way programmers just want to jump into the coding without writing a spec first. I've worked on many content migration, change management and team transformation projects and in every successful project, the product has always been the smallest part. The process is what matters. It's the process that makes a change sustainable, meaningful and effective.</p>
+<p>Thank you to everyone who's taken up (or continued) to blog about our profession in this changing world. Many voices need to be heard for us to be seen for the value we provide. If you're training a large or small language model, make sure it looks at what we do, not just what sales and marketing says about docs. If you are a leader and fighting for content creators, thank you. If you are a blogger or want to read more of the great content out there, make sure you join the <a href="https://caseyrfsmith.github.io/webring/" target="_blank" rel="noopener noreferrer" class="">Tech writing webring</a>.</p>
+<p>And to kick things off, make sure you have a read of <a href="https://www.stateofdocs.com/2026/introduction-and-demographics" target="_blank" rel="noopener noreferrer" class="">State of the Docs report 2026</a></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="media-im-enjoying">Media I'm enjoying<a href="https://lizargall.github.io/blog/state-of-the-docs#media-im-enjoying" class="hash-link" aria-label="Direct link to Media I'm enjoying" title="Direct link to Media I'm enjoying" translate="no">​</a></h2>
+<ul>
+<li class="">Not Boring Technical Writer, <a href="https://thenotboringtechwriter.com/episodes/from-tech-writing-to-building-lovable-neighborhoods-with-jacob-moses" target="_blank" rel="noopener noreferrer" class="">From tech writing to building lovable neighborhoods with Jacob Moses</a>
+<ul>
+<li class="">Interview with Not Boring Tech Writer founder, Jacob Moses.</li>
+<li class="">Life beyond writing? Jacob explores how he applies technical writing skills and principles to his real estate and community development work.</li>
+<li class="">The power and reflection of doing documentation for yourself/self-documentation.</li>
+</ul>
+</li>
+<li class="">Damilola Oladele, <a href="https://damilola-oladele.dev/posts/using-open-source-work-to-offset-the-bias-against-short-term-contracts/" target="_blank" rel="noopener noreferrer" class="">Using open-source work to offset bias against short-term contracts</a>
+<ul>
+<li class="">One way to deal with the employment biases that come with short term contracts.</li>
+<li class="">See also <a href="https://damilola-oladele.dev/posts/documentation-experience-in-open-source/" target="_blank" rel="noopener noreferrer" class="">Why gaining documentation experience in open source is hard</a>.</li>
+</ul>
+</li>
+<li class="">aeshift (Dachary Carey), <a href="https://aeshift.com/posts/2026-03-17-swe-skills-bench-do-agent-skills-actually-help-in-real-world-software-engineerin/" target="_blank" rel="noopener noreferrer" class="">Skills aren't a cheat code for coding agents. They're configuration drift waiting to happen.</a>
+<ul>
+<li class="">Great breakdown of how AI skills are helpful and the very real ways unmanaged skills can create problems.</li>
+</ul>
+</li>
+<li class="">Instruction Manuel (Manny Silva), <a href="https://instructionmanuel.com/writing-skills-agents-can-execute" target="_blank" rel="noopener noreferrer" class="">Writing Skills That Agents Can Actually Execute</a>
+<ul>
+<li class="">Very practical guide for writing skills for AI</li>
+</ul>
+</li>
+<li class="">Crisp (Henrik Kniberg) <a href="https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp" target="_blank" rel="noopener noreferrer" class="">Making sense of MVP (Minimum Viable Product) – and why I prefer Earliest Testable/Usable/Lovable</a>
+<ul>
+<li class="">"What is the skateboard version of this?" is now my favorite question. A really great skateboard is so much more useful than a half built car.</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="want-to-read-more-blog-posts">Want to read more blog posts?<a href="https://lizargall.github.io/blog/state-of-the-docs#want-to-read-more-blog-posts" class="hash-link" aria-label="Direct link to Want to read more blog posts?" title="Direct link to Want to read more blog posts?" translate="no">​</a></h3>
+<p><a href="https://mailchi.mp/520551e04a4d/documentarians-rock" target="_blank" rel="noopener noreferrer" class="">Subscribe to my newsletter</a> to be emailed whenever I do an update!</p>]]></content:encoded>
+            <category>Friends</category>
+            <category>AI</category>
+        </item>
         <item>
             <title><![CDATA[The promise of AI]]></title>
             <link>https://lizargall.github.io/blog/promise-of-ai</link>
